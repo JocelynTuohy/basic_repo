@@ -1,0 +1,4 @@
+Here are some thing to put in a text file.
+Cats.
+Favorite things.
+Brands of glue and pretzels.
